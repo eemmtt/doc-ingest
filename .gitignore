@@ -1,0 +1,5 @@
+faiss_store.pkl
+docs.index
+.env
+.venv
+.htmls
